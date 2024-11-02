@@ -35,4 +35,4 @@ To run the calculator, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/javascript-calculator.git
+   git clone https://github.com/Neh2005/javascript-calculator.git
