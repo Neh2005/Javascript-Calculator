@@ -36,3 +36,61 @@ To run the calculator, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Neh2005/javascript-calculator.git
+
+### 🛠️ Code Overview
+
+- **HTML**: Provides a simple form layout with input fields for numbers, buttons for operations, and a result display.
+- **CSS** (optional): Adds basic styling for layout and appearance.
+- **JavaScript**: Handles the arithmetic calculations based on user inputs, responding to button clicks for operations.
+
+#### JavaScript Functions
+
+In `script.js`, key functions are defined to perform each operation:
+
+- **`add()`** - Calculates the sum of the two input numbers.
+- **`subtract()`** - Calculates the difference.
+- **`multiply()`** - Calculates the product.
+- **`divide()`** - Calculates the quotient, with error handling for division by zero.
+
+---
+### 🛠️ Code Overview
+
+- **HTML**: Provides a simple form layout with input fields for numbers, buttons for operations, and a result display.
+- **CSS** (optional): Adds basic styling for layout and appearance.
+- **JavaScript**: Handles the arithmetic calculations based on user inputs, responding to button clicks for operations.
+
+#### JavaScript Functions
+
+In `script.js`, key functions are defined to perform each operation:
+
+- **`add()`** - Calculates the sum of the two input numbers.
+- **`subtract()`** - Calculates the difference.
+- **`multiply()`** - Calculates the product.
+- **`divide()`** - Calculates the quotient, with error handling for division by zero.
+
+---
+
+### 🛠️ Code Overview
+
+- **HTML**: Provides a simple form layout with input fields for numbers, buttons for operations, and a result display.
+- **CSS** (optional): Adds basic styling for layout and appearance.
+- **JavaScript**: Handles the arithmetic calculations based on user inputs, responding to button clicks for operations.
+
+#### JavaScript Functions
+
+In `script.js`, key functions are defined to perform each operation:
+
+- **`add()`** - Calculates the sum of the two input numbers.
+- **`subtract()`** - Calculates the difference.
+- **`multiply()`** - Calculates the product.
+- **`divide()`** - Calculates the quotient, with error handling for division by zero.
+
+---
+
+### 🔮 Future Enhancements
+
+Some features to consider adding in the future:
+
+- **Clear Button**: To reset the inputs and results.
+- **Input Validation**: Ensuring only numbers can be entered.
+- **Additional Operations**: Like square root, exponentiation, etc.
