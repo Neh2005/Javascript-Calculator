@@ -87,10 +87,12 @@ In `script.js`, key functions are defined to perform each operation:
 
 ---
 
-### 🔮 Future Enhancements
+###  📸 Screenshot
 
-Some features to consider adding in the future:
+A whole web page
+![image](https://github.com/user-attachments/assets/90dde6ea-e502-4c46-b560-a8bfc4dc3f71)
 
-- **Clear Button**: To reset the inputs and results.
-- **Input Validation**: Ensuring only numbers can be entered.
-- **Additional Operations**: Like square root, exponentiation, etc.
+![image](https://github.com/user-attachments/assets/dad9955d-fc12-4539-bddf-6a9ff68002bb)
+
+![image](https://github.com/user-attachments/assets/2c04cd75-f215-4f00-a9af-9c3ad5dd0df2)
+
